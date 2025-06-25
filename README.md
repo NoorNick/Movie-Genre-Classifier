@@ -17,13 +17,14 @@ A simple **K-Nearest Neighbors (KNN)** classifier implemented from scratch in Ju
 
 1. Clone this repository:
  ```bash
-  git clone https://github.com/your-username/simple-knn-movie-genre-classifier.git
- cd simple-knn-movie-genre-classifier
+  git clone https://https://github.com/NoorNick/Movie-Genre-Classifier.git
+ cd Movie-Genre-Classifier
  ```
-2. Run the Python script:
+2. Install Required Libraries
 
 ```
-python knn_movie_classifier.py
+pip install -r requirements.txt
+
 ```
 
 3. See genre predictions for new movies printed in the console and a plot visualizing the data!
